@@ -21,9 +21,10 @@ The repository serves only to **illustrate the main scripts and workflows** behi
 
 ## Repository Structure
 
-- `anon/` – scripts for anonymising datasets with SA-Toolkit, kNN-VC and Private-kNN-VC.
-- `embeddings/` – scripts for optaining embeddings and needed pkls from SCOTUS- and VoxCeleb-datasets
-- `training/` – scripts to train attribute classifiers, evaluate them, train Random Forest for speaker verification, and evaluate them.
+- `anon/` - scripts for anonymising datasets with SA-Toolkit, kNN-VC and Private-kNN-VC.
+- `data/` - scripts for downloading and pre-processing the data
+- `embeddings/` - scripts for optaining embeddings and needed pkls from SCOTUS- and VoxCeleb-datasets
+- `training/` - scripts to train attribute classifiers, evaluate them, train Random Forest for speaker verification, and evaluate them.
 
 _Note:_ File organisation reflects my working setup and may not be fully generalised.
 
