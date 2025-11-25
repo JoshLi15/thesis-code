@@ -4,7 +4,7 @@ This repository contains scripts that document the process of creating the **fin
 
 ## Attribution
 
-- script 1, 2 and 3 were obtained and adapted from [MTL-Speaker-Embeddings](https://github.com/cvqluu/MTL-Speaker-Embeddings)
+- script 1, 2 and 3 were obtained and adapted from [MTL-Speaker-Embeddings](https://github.com/cvqluu/MTL-Speaker-Embeddings) (see Section **SCOTUS Data Preparation**)
 
 ## Important Notes
 
