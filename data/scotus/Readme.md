@@ -4,7 +4,7 @@ This repository contains scripts that document the process of creating the **fin
 
 ## Attribution
 
-- script 1, 2 and 3 were obtained and adapted from: https://github.com/hechmik/voxceleb_enrichment_age_gender/blob/main/README.md
+- script 1, 2 and 3 were obtained and adapted from [MTL-Speaker-Embeddings](https://github.com/cvqluu/MTL-Speaker-Embeddings)
 
 ## Important Notes
 
@@ -15,10 +15,7 @@ This repository contains scripts that document the process of creating the **fin
 
 ## Dataset Information
 
-The experiments are based on the **[SCOTUS dataset](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/)**, which is publicly available.
-
-- **Gender** and **nationality** labels were already included in the dataset.
-- **Profession** and refined **nationality** labels were created following the procedure outlined in the scripts.
+The experiments are based on the **SCOTUS dataset**, which is publicly available with the help of the [Oyez-Project](https://www.oyez.org/about/).
 
 ---
 
